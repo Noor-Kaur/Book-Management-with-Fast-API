@@ -1,3 +1,0 @@
-Creating and enhnacing books to learn the basics of fastAPI
-
-Implement CRUD operations (create, read, update, delete)
