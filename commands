@@ -1,0 +1,3 @@
+python -m venv fastapi
+fastapi\Scripts\activate.bat
+uvicorn books:app --reload
